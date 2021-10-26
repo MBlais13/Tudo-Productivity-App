@@ -1,13 +1,18 @@
+<a href="https://mblais-portfolio.netlify.app/">
 <p align="center">
   <img src="https://i.imgur.com/bhN3ALL.png">
 </p>
-
+</a>
 <p align="center">
   <img src="https://img.shields.io/badge/Version-0.2-brightgreen?style=for-the-badge">
+  
   <img src="https://img.shields.io/github/license/MBlais13/Tudo-Productivity-App?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/MBlais13/Tudo-Productivity-App?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/MBlais13/Tudo-Productivity-App?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/MBlais13/Tudo-Productivity-App?color=teal&style=for-the-badge">
+  
+  <img src="https://img.shields.io/github/stars/MBlais13/Tudo-Productivity-App?color=yellow&style=for-the-badge">
+  
+  <!--<img src="https://img.shields.io/github/issues/MBlais13/Tudo-Productivity-App?color=red&style=for-the-badge">
+  -->
+  <img src="https://img.shields.io/github/forks/MBlais13/Tudo-Productivity-App?color=blue&style=for-the-badge">
 </p>
 
 <p align="center">
@@ -47,8 +52,6 @@
 
 <a href="https://github.com/MBlais13" target="_blank"><img src="https://img.shields.io/badge/Download Here-1C1E23?style=for-the-badge&logo="></a>
 
-
-<!--<a href="https://i.imgur.com/giiUuYw.png">**Here**</a> -->
 ```
 $ git clone git://github.com/MBlais13/Tudo-Productivity-App.git
 ```
@@ -66,7 +69,7 @@ $ git clone git://github.com/MBlais13/Tudo-Productivity-App.git
 
 #
 
-<h2 align="center">Thanks for reading :))</h2>
+<h2 align="center">Thanks for reading :)</h2>
 
 <!--
 ### Special Thanks :
@@ -82,4 +85,6 @@ $ git clone git://github.com/MBlais13/Tudo-Productivity-App.git
   <a href="https://twitter.com/MBlais13" target="_blank"><img src="https://img.shields.io/badge/Twitter-%40MBlais13-1DA1F2?style=for-the-badge&logo=twitter"></a>
 
   <a href="https://discord.gg/Hejb485" target="_blank"><img src="https://img.shields.io/badge/Discord-Message me-5865F2?style=for-the-badge&logo=discord"></a>
+
+  <a href="https://mblais-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Website-Portfolio-lightblue?style=for-the-badge&logo="></a>
 </p>
