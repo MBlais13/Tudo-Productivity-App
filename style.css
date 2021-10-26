@@ -118,3 +118,10 @@ body{
 .grid-item2 {
     position: relative;
 }
+
+.footer {
+    width: 100%;
+    align-self: flex-end;
+    display: block;
+    margin-bottom: 0%;
+  }
