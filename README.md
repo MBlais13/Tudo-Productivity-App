@@ -71,13 +71,6 @@ $ git clone git://github.com/MBlais13/Tudo-Productivity-App.git
 
 <h2 align="center">Thanks for reading :)</h2>
 
-<!--
-### Special Thanks :
-
-- [**MBlais**](https://github.com/MBlais13)
--->
-
-
 ### Find Me on :
 <p align="left">
   <a href="https://github.com/MBlais13" target="_blank"><img src="https://img.shields.io/badge/Github-MBlais13-lightgrey?style=for-the-badge&logo=github"></a>
