@@ -1,4 +1,4 @@
-<h1><p align="center">First and foremost: Tudo isnt an actual app (yet?), Its just an idea fornow :)</p></h1>
+<h2><p align="center">First and foremost: Tudo isnt an actual app (yet?), Its just an idea for now :)</p></h2>
 
 <a href="https://mblais-portfolio.netlify.app/">
 <p align="center">
