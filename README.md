@@ -37,7 +37,7 @@
 - Gives you +100 productivity
 - Top notch encryption + security
 - Simple easy list layout
-- ~~Multiple user support~~ *just kidding*
+- ~~Gives you free cookies~~ *just kidding*
 
 
 
