@@ -1,3 +1,5 @@
+<h1><p align="center">First and foremost: Tudo isnt an actual app (yet?), Its just an idea fornow :)</p></h1>
+
 <a href="https://mblais-portfolio.netlify.app/">
 <p align="center">
   <img src="https://i.imgur.com/bhN3ALL.png">
